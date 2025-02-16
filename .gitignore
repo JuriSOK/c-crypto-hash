@@ -1,2 +1,9 @@
 /cmake-build-debug/
 /CMakeLists.txt
+
+*.o
+*.a
+*.out
+*.log
+*.exe
+bin/
