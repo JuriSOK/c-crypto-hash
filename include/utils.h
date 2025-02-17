@@ -9,7 +9,7 @@
 void char_to_binaire(char c, char *out);
 
 // Conversion d'une chaîne de caractères complète en binaire
-void string_to_binaire(char *str, char *out);
+void string_to_binaire(char *str,char *out);
 
 #endif // UTILS_H
 
